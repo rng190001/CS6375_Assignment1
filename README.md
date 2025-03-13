@@ -1,4 +1,4 @@
-# starter code for CS 6375 Assignment 1 2025
+# Starter code for CS 6375 Assignment 1 2025
 
 Add the corresponding (one) line under the ``[to fill]`` in ``def forward()`` of the class for ffnn.py and rnn.py
 
