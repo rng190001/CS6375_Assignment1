@@ -5,6 +5,9 @@ Add the corresponding (one) line under the ``[to fill]`` in ``def forward()`` of
 Feel free to modify other part of code, they are just for your reference.
 
 ---
+Contributions: Finalized the forward method, added test accuracy functionality and plotted graphs to visualize the data
+
+---
 
 One example on running the code:
 
